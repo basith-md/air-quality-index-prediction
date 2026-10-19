@@ -1,6 +1,6 @@
 # Air Quality Index Prediction for Indian Cities
 
-Exploratory analysis and model comparison for predicting the Air Quality Index (AQI) from pollutant readings across 26 Indian cities, 2015–2020. Term project for Virginia Tech's Certificate Program in Business Analytics and AI (Alexandria cohort, 2022), delivered with a global engineering association for the aerospace and automotive industries.
+Exploratory analysis and model comparison for predicting the Air Quality Index (AQI) from pollutant readings across 26 Indian cities, 2015–2020. Class term project for Virginia Tech's Certificate Program in Business Analytics and AI (Alexandria cohort, 2022).
 
 ![Correlation heatmap of pollutants and AQI](figures/correlation-heatmap.png)
 
